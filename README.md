@@ -1,5 +1,6 @@
 ### Tableau Project
 
+    A dashboard that visualizes the aggregated data found in the Citi Bike Trip History Logs.
     To complete a number of visualizations as well as providing an analysis explaining any phenomenon uncovered by these visualizations utilizing Tableau.
 
 Discovered Phenomenon Visualizations (4-10 total visualizations, A total of 2 dashboards (1 for
