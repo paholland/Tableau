@@ -18,6 +18,6 @@ Visualizations for each phenomenon with each other, not all mixed up.)
 Analysis (Analysis on both uncovered phenomena, using the dashboards as a visual guide. Analysis on the chosen city, official requested map detailing any
 noticeable trends. Both write-ups are logically sound. Write-ups are written in a manner that a non-data scientist/analyst could understand.
 
-Completed in Tableau
+Completed in Tableau https://public.tableau.com/profile/ph8193#!/
 
 ## Tableau 
